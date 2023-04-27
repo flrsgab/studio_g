@@ -1,0 +1,149 @@
+city,province,region
+alaminos,Pangasinan,I
+angeles city,Pampanga,III
+antipolo,Rizal,IV-A
+bacolod,Negros Occidental,VI
+bacoor,Cavite,IV-A
+bago,Negros Occidental,VI
+baguio,Benguet,CAR
+bais,Negros Oriental,VII
+balanga,Bataan,III
+baliwag,Bulacan,III
+batac,Ilocos Norte,I
+batangas city,Batangas,IV-A
+bayawan,Negros Oriental,VII
+baybay,Leyte,VIII
+bayugan,Agusan del Sur,XIII
+biñan,Laguna,IV-A
+bislig,Surigao del Sur,XIII
+bogo,Cebu,VII
+borongan,Eastern Samar,VIII
+butuan,Agusan del Norte,XIII
+cabadbaran,Agusan del Norte,XIII
+cabanatuan,Nueva Ecija,III
+cabuyao,Laguna,IV-A
+cadiz,Negros Occidental,VI
+cagayan de oro,Misamis Oriental,X
+calaca,Batangas,IV-A
+calamba,Laguna,IV-A
+calapan,Oriental Mindoro,Mimaropa
+calbayog,Samar,VIII
+caloocan,none [g],NCR
+candon,Ilocos Sur,I
+canlaon,Negros Oriental,VII
+carcar,Cebu,VII
+catbalogan,Samar,VIII
+cauayan,Isabela,II
+cavite city,Cavite,IV-A
+cebu city,Cebu,VII
+cotabato city,Maguindanao del Norte,XII
+dagupan,Pangasinan,I
+danao,Cebu,VII
+dapitan,Zamboanga del Norte,IX
+dasmariñas,Cavite,IV-A
+davao city,Davao del Sur,XI
+digos,Davao del Sur,XI
+dipolog,Zamboanga del Norte,IX
+dumaguete,Negros Oriental,VII
+el salvador,Misamis Oriental,X
+escalante,Negros Occidental,VI
+gapan,Nueva Ecija,III
+general santos,South Cotabato,XII
+general trias,Cavite,IV-A
+gingoog,Misamis Oriental,X
+guihulngan,Negros Oriental,VII
+himamaylan,Negros Occidental,VI
+ilagan,Isabela,II
+iligan,Lanao del Norte,X
+iloilo city,Iloilo,VI
+imus,Cavite,IV-A
+iriga,Camarines Sur,V
+isabela,Basilan,IX
+kabankalan,Negros Occidental,VI
+kidapawan,Cotabato,XII
+koronadal,South Cotabato,XII
+la carlota,Negros Occidental,VI
+lamitan,Basilan,BARMM
+laoag,Ilocos Norte,I
+lapu-lapu city,Cebu,VII
+las piñas,none [h],NCR
+legazpi,Albay,V
+ligao,Albay,V
+lipa,Batangas,IV-A
+lucena,Quezon,IV-A
+maasin,Southern Leyte,VIII
+mabalacat,Pampanga,III
+makati,none [h],NCR
+malabon,none [h],NCR
+malaybalay,Bukidnon,X
+malolos,Bulacan,III
+mandaluyong,none [h],NCR
+mandaue,Cebu,VII
+manila,none,NCR
+marawi,Lanao del Sur,BARMM
+marikina,none [h],NCR
+masbate city,Masbate,V
+mati,Davao Oriental,XI
+meycauayan,Bulacan,III
+muñoz,Nueva Ecija,III
+muntinlupa,none [h],NCR
+naga,Camarines Sur,V
+naga,Cebu,VII
+navotas,none [h],NCR
+olongapo,Zambales,III
+ormoc,Leyte,VIII
+oroquieta,Misamis Occidental,X
+ozamiz,Misamis Occidental,X
+pagadian,Zamboanga del Sur,IX
+palayan,Nueva Ecija,III
+panabo,Davao del Norte,XI
+parañaque,none [h],NCR
+pasay,none [g],NCR
+pasig,none [h],NCR
+passi,Iloilo,VI
+puerto princesa,Palawan,Mimaropa
+quezon city,none [g],NCR
+roxas,Capiz,VI
+sagay,Negros Occidental,VI
+samal,Davao del Norte,XI
+san carlos,Negros Occidental,VI
+san carlos,Pangasinan,I
+san fernando,La Union,I
+san fernando,Pampanga,III
+san jose,Nueva Ecija,III
+san jose del monte,Bulacan,III
+san juan,none [h],NCR
+san pablo,Laguna,IV-A
+san pedro,Laguna,IV-A
+santa rosa,Laguna,IV-A
+santo tomas,Batangas,IV-A
+santiago,Isabela,II
+silay,Negros Occidental,VI
+sipalay,Negros Occidental,VI
+sorsogon city,Sorsogon,V
+surigao city,Surigao del Norte,XIII
+tabaco,Albay,V
+tabuk,Kalinga,CAR
+tacloban,Leyte,VIII
+tacurong,Sultan Kudarat,XII
+tagaytay,Cavite,IV-A
+tagbilaran,Bohol,VII
+taguig,none [h],NCR
+tagum,Davao del Norte,XI
+talisay,Cebu,VII
+talisay,Negros Occidental,VI
+tanauan,Batangas,IV-A
+tandag,Surigao del Sur,XIII
+tangub,Misamis Occidental,X
+tanjay,Negros Oriental,VII
+tarlac city,Tarlac,III
+tayabas,Quezon,IV-A
+toledo,Cebu,VII
+trece martires,Cavite,IV-A
+tuguegarao,Cagayan,II
+urdaneta,Pangasinan,I
+valencia,Bukidnon,X
+valenzuela,none [m],NCR
+victorias,Negros Occidental,VI
+vigan,Ilocos Sur,I
+zamboanga city,Zamboanga del Sur,IX
